@@ -1,0 +1,4 @@
+body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; background-color: #f0f0f0; margin: 20px; }
+        canvas { border: 2px solid #333; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); }
+        .controles { display: flex; gap: 20px; background: white; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+        .controle-item { display: flex; flex-direction: column; align-items: center; font-weight: bold; }
